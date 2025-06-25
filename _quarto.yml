@@ -18,7 +18,7 @@ website:
       - href: Analysis and Results.qmd
         text: Analysis and Results
       - href: Shiny.qmd
-        text: Shiny App Demo
+        text: Shiny App
       - href: Poster.qmd
         text: Poster
       - href: Prototype.qmd
