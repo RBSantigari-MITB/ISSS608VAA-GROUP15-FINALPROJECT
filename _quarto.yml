@@ -7,7 +7,23 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: "About Us"
+      - href: ProjectOverview.qmd
+        text: Project Overview
+      - href: Storyboard.qmd
+        text: Storyboard
+      - href: User Guide.qmd
+        text: UserGuide
+      - href: Analysis and Results.qmd
+        text: Analysis and Results
+      - href: Shiny.qmd
+        text: Shiny App Demo
+      - href: Poster.qmd
+        text: Poster
+      - href: Prototype.qmd
+        text: Prototype
+
 
 format:
   html:

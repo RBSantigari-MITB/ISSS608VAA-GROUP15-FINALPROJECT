@@ -2,10 +2,9 @@
 title: "ISSS608VAA-GROUP15-FINALPROJECT"
 ---
 
-This is a Quarto website.
+#  Welcome to Our Visual Analytics Project
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This is the official site for **Group 15**’s final project for *ISSS608 Visual Analytics and Applications* based on **VAST Challenge 2025 – Mini Challenge 1 (MC1)**.
 
-```{r}
-1 + 1
-```
+Explore how Oceanus Folk spread across the music landscape and discover the next generation of stars with our visual analytics dashboard and supporting content.
+

@@ -1,9 +1,29 @@
 ---
-title: "About"
+title: "About Us"
+format: html
 ---
 
-About this site
+# Meet Our Team
 
-```{r}
-1 + 1
-```
+We are **Group 15** from the *ISSS608 Visual Analytics and Applications* course at Singapore Management University.  
+Our project focuses on the VAST Challenge 2025 – MC1: Oceanus Folk Knowledge Graph.
+
+## Team Members
+
+<div style="display: flex; gap: 40px; align-items: center;">
+
+<div>
+<img src="images/Rajesh.png" width="150px"><br>
+<strong>Rajesh Babu</strong><br>
+Master of IT in Business
+</div>
+
+<div>
+<img src="images/Pengxin.png" width="150px"><br>
+<strong>Pengxin Tan</strong><br>
+Master of IT in Business
+</div>
+
+</div>
+
+We collaborated to create a meaningful visual analytics solution based on music genre evolution and artist influence.

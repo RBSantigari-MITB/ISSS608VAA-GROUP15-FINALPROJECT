@@ -4,13 +4,20 @@
     "href": "index.html",
     "title": "ISSS608VAA-GROUP15-FINALPROJECT",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome to Our Visual Analytics Project\nThis is the official site for Group 15’s final project for ISSS608 Visual Analytics and Applications based on VAST Challenge 2025 – Mini Challenge 1 (MC1).\nExplore how Oceanus Folk spread across the music landscape and discover the next generation of stars with our visual analytics dashboard and supporting content."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Us",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "We are Group 15 from the ISSS608 Visual Analytics and Applications course at Singapore Management University.\nOur project focuses on the VAST Challenge 2025 – MC1: Oceanus Folk Knowledge Graph.\n\n\n\n\n Rajesh Babu Master of IT in Business\n\n\n Pengxin Tan Master of IT in Business\n\n\nWe collaborated to create a meaningful visual analytics solution based on music genre evolution and artist influence."
+  },
+  {
+    "objectID": "about.html#team-members",
+    "href": "about.html#team-members",
+    "title": "About Us",
+    "section": "",
+    "text": "Rajesh Babu Master of IT in Business\n\n\n Pengxin Tan Master of IT in Business\n\n\nWe collaborated to create a meaningful visual analytics solution based on music genre evolution and artist influence."
   }
 ]
